@@ -1,4 +1,5 @@
 library(tidyverse)
 x <- 58
-y <- 88
-qplot(mpg$hwy)
+y <- 55
+qplot(mpg$cty)
+
